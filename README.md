@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheVandiProject
 - 👀 I’m interested in growing as a person, developer, and more.
 - 🌱 I’m currently learning to be more consistent with my practices and expand my knowledge in all fronts.
-- 💞️ I’m looking to collaborate on projects regarding cybersecurity, encryption, and AI.
+- 💞️ I’m looking to collaborate on projects regarding cybersecurity, encryption, Full-stack development and AI.
 - 📫 How to reach me DM me for that info.
 
 <!---
